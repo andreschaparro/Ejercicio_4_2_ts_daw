@@ -37,6 +37,6 @@ class User {
     }
 
     public printInfo():void {
-        console.log(`"Nombre: ${this._name} email: ${this._email} logged: ${this._isLogged}`);
+        console.log(`Nombre: ${this._name} email: ${this._email} logged: ${this._isLogged}`);
     }
 }
